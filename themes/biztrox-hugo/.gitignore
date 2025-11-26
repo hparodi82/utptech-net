@@ -1,0 +1,27 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+._*
+.sass-cache
+.tmp
+.lock
+
+# Hugo build output
+/public/
+/resources/
+/.hugo_build.lock
+/hugo_stats.json
+
+# Node / JS
+/node_modules/
+npm-debug.log
+/package-lock.json
+/yarn.lock
+/jsconfig.json
+
+# Build artifacts
+/dist
+/builds
+
+# Go deps (Hugo modules, if any)
+go.sum

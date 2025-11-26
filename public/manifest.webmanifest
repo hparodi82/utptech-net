@@ -1,0 +1,56 @@
+{
+  "name": "Up To Par Technologies",
+  "short_name": "Up To Par Technologies",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "http://10.10.100.48:1313/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#FFCB05",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/banner/logo-001_hu_2aaf7ff3c50e0999.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/banner/logo-001_hu_a0c3a06bc78a5e7e.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/banner/logo-001_hu_984e1496f6b42419.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/banner/logo-001_hu_6472ecc4eea168af.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/banner/logo-001_hu_3c76f6d96438dca.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/banner/logo-001_hu_fa5aa3756e237a97.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}

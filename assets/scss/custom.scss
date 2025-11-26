@@ -1,0 +1,73 @@
+/*************************************************
+ * UTP Tech – Service card image sizing
+ *************************************************/
+.row .col-lg-4.col-sm-6 {
+  display: flex;
+}
+
+.card.text-center.h-100 {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-img-wrapper {
+  position: relative;
+  width: 100%;
+  height: 220px !important;   /* adjust if you want taller/shorter cards */
+  overflow: hidden;
+}
+
+.card-img-wrapper picture,
+.card-img-wrapper img,
+.card-img-wrapper img.card-img-top {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block;
+}
+
+.card-body {
+  flex: 1 1 auto;
+}
+
+/*************************************************
+ * UTP Tech – Hero slider image + text overrides
+ *************************************************/
+
+/* Make each hero slide use a nice full hero background */
+.hero-slider .swiper-slide {
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;   /* full hero, no tiny image */
+  min-height: 560px;                   /* tweak height if needed */
+}
+
+/* Aggressively force ALL hero text to be white */
+.hero-slider .swiper-slide,
+.hero-slider .swiper-slide .container,
+.hero-slider .swiper-slide * {
+  color: #ffffff !important;
+}
+
+/* Buttons/links inside hero */
+.hero-slider .swiper-slide a {
+  color: #ffffff !important;
+}
+
+.hero-slider .swiper-slide .btn,
+.hero-slider .swiper-slide .btn-outline,
+.hero-slider .swiper-slide .btn-primary,
+.hero-slider .swiper-slide .btn-secondary {
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+/* Optional hover using your Wolverine colors */
+.hero-slider .swiper-slide .btn:hover,
+.hero-slider .swiper-slide .btn-outline:hover,
+.hero-slider .swiper-slide .btn-primary:hover,
+.hero-slider .swiper-slide .btn-secondary:hover {
+  background-color: #FFCB05 !important;  /* Maize */
+  border-color: #FFCB05 !important;
+  color: #00274C !important;             /* Blue */
+}
