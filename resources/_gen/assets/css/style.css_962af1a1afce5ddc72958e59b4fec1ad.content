@@ -16446,25 +16446,23 @@ img.arrow-bottom {
 .gallery-slider:hover .swiper-button-next {
   right: 30px; }
 
-/* UTPTECH – Uniform service card image sizing */
-/* 1) Make every service column stretch so cards can equalize nicely */
+/*************************************************
+ * UTP Tech – Service card image sizing
+ *************************************************/
 .row .col-lg-4.col-sm-6 {
   display: flex; }
 
-/* 2) Make the card itself a flex column */
 .card.text-center.h-100 {
   display: flex;
   flex-direction: column; }
 
-/* 3) Lock the image area to one consistent box */
 .card-img-wrapper {
   position: relative;
   width: 100%;
   height: 220px !important;
-  /* tweak: 200–260px if you want taller/shorter */
+  /* adjust if you want taller/shorter cards */
   overflow: hidden; }
 
-/* 4) Force <picture> and <img> inside to fill & crop */
 .card-img-wrapper picture,
 .card-img-wrapper img,
 .card-img-wrapper img.card-img-top {
@@ -16473,71 +16471,49 @@ img.arrow-bottom {
   object-fit: cover !important;
   display: block; }
 
-/* 5) Let the body stretch and keep footer aligned */
 .card-body {
   flex: 1 1 auto; }
 
-/* UTP Tech – Hero slider background sizing tweak */
+/*************************************************
+ * UTP Tech – Hero slider image + text overrides
+ *************************************************/
+/* Make each hero slide use a nice full hero background */
 .hero-slider .swiper-slide {
-  /* Desktop / larger screens:
-     - show most of the image
-     - not super zoomed in
-     - no empty borders */
-  background-size: 115% auto;
-  /* slight zoom, keeps proportions */
-  background-position: center center;
-  background-repeat: no-repeat; }
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  /* full hero, no tiny image */
+  min-height: 560px;
+  /* tweak height if needed */ }
 
-/* Mobile – let it behave like a normal full hero */
-@media (max-width: 768px) {
-  .hero-slider .swiper-slide {
-    background-size: cover;
-    /* fill the screen on phones */
-    background-position: center; } }
-
-/* === UTP Tech – Hero slider image + text tweaks === */
-/* 1) Hero image sizing – not crazy zoomed, still full-width */
-.hero-slider .swiper-slide {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  /* or "contain" if you prefer full image with white bars */
-  min-height: 520px;
-  /* adjust up/down to taste */ }
-
-/* 2) Force hero text to white */
-.hero-slider .slide-content,
-.hero-slider .slide-content h1,
-.hero-slider .slide-content .h1,
-.hero-slider .slide-content h2,
-.hero-slider .slide-content .h2,
-.hero-slider .slide-content h3,
-.hero-slider .slide-content .h3,
-.hero-slider .slide-content h4,
-.hero-slider .slide-content .h4,
-.hero-slider .slide-content h5,
-.hero-slider .slide-content .h5,
-.hero-slider .slide-content h6,
-.hero-slider .slide-content .h6,
-.hero-slider .slide-content p,
-.hero-slider .slide-content span,
-.hero-slider .slide-content small,
-.hero-slider .slide-content .small {
+/* Aggressively force ALL hero text to be white */
+.hero-slider .swiper-slide,
+.hero-slider .swiper-slide .container,
+.hero-slider .swiper-slide * {
   color: #ffffff !important; }
 
-/* 3) Links + buttons inside hero */
-.hero-slider .slide-content a {
+/* Buttons/links inside hero */
+.hero-slider .swiper-slide a {
   color: #ffffff !important; }
 
-.hero-slider .slide-content .btn,
-.hero-slider .slide-content .btn-outline {
+.hero-slider .swiper-slide .btn,
+.hero-slider .swiper-slide .btn-outline,
+.hero-slider .swiper-slide .btn-primary,
+.hero-slider .swiper-slide .cookie-box .btn-outline-primary,
+.cookie-box .hero-slider .swiper-slide .btn-outline-primary,
+.hero-slider .swiper-slide .btn-secondary {
   color: #ffffff !important;
   border-color: #ffffff !important; }
 
-/* Optional: nice hover using your Wolverine colors */
-.hero-slider .slide-content .btn:hover {
-  background-color: #FFCB05;
+/* Optional hover using your Wolverine colors */
+.hero-slider .swiper-slide .btn:hover,
+.hero-slider .swiper-slide .btn-outline:hover,
+.hero-slider .swiper-slide .btn-primary:hover,
+.hero-slider .swiper-slide .cookie-box .btn-outline-primary:hover,
+.cookie-box .hero-slider .swiper-slide .btn-outline-primary:hover,
+.hero-slider .swiper-slide .btn-secondary:hover {
+  background-color: #FFCB05 !important;
   /* Maize */
-  border-color: #FFCB05;
-  color: #00274C;
+  border-color: #FFCB05 !important;
+  color: #00274C !important;
   /* Blue */ }

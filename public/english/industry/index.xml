@@ -1,82 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Industries We Serve on Up To Par Technologies</title>
-    <link>http://10.10.100.48:1313/english/industry/</link>
-    <description>Recent content in Industries We Serve on Up To Par Technologies</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 11:54:02 +0600</lastBuildDate>
-    <atom:link href="http://10.10.100.48:1313/english/industry/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dental Practices &amp; DSOs</title>
-      <link>http://10.10.100.48:1313/english/industry/dental/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/dental/</guid>
-      <description>&lt;h3 id=&#34;infrastructure-that-keeps-your-dental-practice-running-smooth&#34;&gt;Infrastructure That Keeps Your Dental Practice Running Smooth&lt;/h3&gt;&#xA;&lt;p&gt;Dental teams live on &lt;strong&gt;schedules, uptime, and trust&lt;/strong&gt;. If the network is slow, the phones are down, or the office looks rough from the outside, patients feel it right away.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Educational Institutions</title>
-      <link>http://10.10.100.48:1313/english/industry/education/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/education/</guid>
-      <description>&lt;h3 id=&#34;campuses-that-run-smoothly-stay-safe-and-look-professional&#34;&gt;Campuses That Run Smoothly, Stay Safe, and Look Professional&lt;/h3&gt;&#xA;&lt;p&gt;Schools and campuses rely on &lt;strong&gt;stable networks, safe facilities, and a welcoming environment&lt;/strong&gt; for students, staff, and families.&lt;br&gt;&#xA;If Wi-Fi is down, safety equipment is out of date, or the property looks neglected, learning and trust both take a hit.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enterprise &amp; Corporate</title>
-      <link>http://10.10.100.48:1313/english/industry/enterprise/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/enterprise/</guid>
-      <description>&lt;h3 id=&#34;enterprise-discipline-with-hands-on-on-site-execution&#34;&gt;Enterprise Discipline With Hands-On, On-Site Execution&lt;/h3&gt;&#xA;&lt;p&gt;Corporate environments demand &lt;strong&gt;standardization, uptime, and clean execution&lt;/strong&gt; across every location —&lt;br&gt;&#xA;from HQ and regional offices to clinics, branches, and satellite sites.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hospitality &amp; Hotels</title>
-      <link>http://10.10.100.48:1313/english/industry/hospitality/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/hospitality/</guid>
-      <description>&lt;h3 id=&#34;keep-your-property-guest-ready-inside-and-out&#34;&gt;Keep Your Property Guest-Ready, Inside and Out&lt;/h3&gt;&#xA;&lt;p&gt;In hospitality, &lt;strong&gt;every detail affects the guest experience&lt;/strong&gt; — from Wi-Fi reliability and safety readiness&lt;br&gt;&#xA;to how your entrances, walkways, and patios look when guests arrive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Medical &amp; Healthcare</title>
-      <link>http://10.10.100.48:1313/english/industry/medical/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/medical/</guid>
-      <description>&lt;h3 id=&#34;keeping-clinics-connected-compliant--patient-ready&#34;&gt;Keeping Clinics Connected, Compliant &amp;amp; Patient-Ready&lt;/h3&gt;&#xA;&lt;p&gt;Modern healthcare relies on more than just good medicine — it needs &lt;strong&gt;reliable technology, safe facilities, and a professional environment&lt;/strong&gt; that gives patients confidence the moment they walk in.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Non-Profit &amp; Community Organizations</title>
-      <link>http://10.10.100.48:1313/english/industry/non-profit/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/non-profit/</guid>
-      <description>&lt;h3 id=&#34;technology-safety--curb-appeal-that-support-your-mission&#34;&gt;Technology, Safety &amp;amp; Curb Appeal That Support Your Mission&lt;/h3&gt;&#xA;&lt;p&gt;Non-profits and community organizations run on &lt;strong&gt;trust, people, and purpose&lt;/strong&gt; —&lt;br&gt;&#xA;but you still need secure networks, safe buildings, and welcoming spaces for the community you serve.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Optometry &amp; Vision Care</title>
-      <link>http://10.10.100.48:1313/english/industry/vision/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/vision/</guid>
-      <description>&lt;h3 id=&#34;clear-infrastructure-for-clear-vision-care&#34;&gt;Clear Infrastructure For Clear Vision Care&lt;/h3&gt;&#xA;&lt;p&gt;Modern optometry and vision care practices rely on &lt;strong&gt;fast, stable networks and safe, welcoming environments&lt;/strong&gt;.&lt;br&gt;&#xA;If your EHR lags, imaging stations freeze, or the building looks neglected, patients feel it immediately.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Radiology &amp; Imaging Centers</title>
-      <link>http://10.10.100.48:1313/english/industry/radiology/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/radiology/</guid>
-      <description>&lt;h3 id=&#34;infrastructure-that-keeps-imaging-rooms-online-and-on-time&#34;&gt;Infrastructure That Keeps Imaging Rooms Online and On Time&lt;/h3&gt;&#xA;&lt;p&gt;Radiology and imaging environments depend on &lt;strong&gt;uptime, clean power, and stable connectivity&lt;/strong&gt;.&lt;br&gt;&#xA;If PACS is slow, studies won’t load. If the network drops, modalities can’t send. If the site looks neglected, patients and referring providers notice.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Restaurants &amp; Food Service</title>
-      <link>http://10.10.100.48:1313/english/industry/restraurant/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/restraurant/</guid>
-      <description>&lt;h3 id=&#34;keeping-kitchens-dining-areas--drive-thrus-up-to-par&#34;&gt;Keeping Kitchens, Dining Areas &amp;amp; Drive-Thrus Up To Par&lt;/h3&gt;&#xA;&lt;p&gt;Restaurants run on &lt;strong&gt;tight margins, high traffic, and zero room for downtime&lt;/strong&gt;.&lt;br&gt;&#xA;Grease, foot traffic, and constant use put pressure on your &lt;strong&gt;technology, safety systems, and exterior spaces&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Small &amp; Medium Businesses</title>
-      <link>http://10.10.100.48:1313/english/industry/smb/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/industry/smb/</guid>
-      <description>&lt;h3 id=&#34;big-league-reliability-for-growing-local-businesses&#34;&gt;Big-League Reliability For Growing Local Businesses&lt;/h3&gt;&#xA;&lt;p&gt;Small and medium-sized businesses need &lt;strong&gt;reliable systems, clean spaces, and safe environments&lt;/strong&gt; —&lt;br&gt;&#xA;but don’t always have a full-time IT or facilities team to manage it all.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Industries We Serve on Up To Par Technologies</title><link>https://utptech.net/english/industry/</link><description>Recent content in Industries We Serve on Up To Par Technologies</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 29 Sep 2018 11:54:02 +0600</lastBuildDate><atom:link href="https://utptech.net/english/industry/index.xml" rel="self" type="application/rss+xml"/><item><title>Dental Practices &amp; DSOs</title><link>https://utptech.net/english/industry/dental/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/dental/</guid><description>&lt;h3 id="infrastructure-that-keeps-your-dental-practice-running-smooth"&gt;Infrastructure That Keeps Your Dental Practice Running Smooth&lt;/h3&gt;
+&lt;p&gt;Dental teams live on &lt;strong&gt;schedules, uptime, and trust&lt;/strong&gt;. If the network is slow, the phones are down, or the office looks rough from the outside, patients feel it right away.&lt;/p&gt;</description></item><item><title>Educational Institutions</title><link>https://utptech.net/english/industry/education/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/education/</guid><description>&lt;h3 id="campuses-that-run-smoothly-stay-safe-and-look-professional"&gt;Campuses That Run Smoothly, Stay Safe, and Look Professional&lt;/h3&gt;
+&lt;p&gt;Schools and campuses rely on &lt;strong&gt;stable networks, safe facilities, and a welcoming environment&lt;/strong&gt; for students, staff, and families.&lt;br&gt;
+If Wi-Fi is down, safety equipment is out of date, or the property looks neglected, learning and trust both take a hit.&lt;/p&gt;</description></item><item><title>Enterprise &amp; Corporate</title><link>https://utptech.net/english/industry/enterprise/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/enterprise/</guid><description>&lt;h3 id="enterprise-discipline-with-hands-on-on-site-execution"&gt;Enterprise Discipline With Hands-On, On-Site Execution&lt;/h3&gt;
+&lt;p&gt;Corporate environments demand &lt;strong&gt;standardization, uptime, and clean execution&lt;/strong&gt; across every location —&lt;br&gt;
+from HQ and regional offices to clinics, branches, and satellite sites.&lt;/p&gt;</description></item><item><title>Hospitality &amp; Hotels</title><link>https://utptech.net/english/industry/hospitality/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/hospitality/</guid><description>&lt;h3 id="keep-your-property-guest-ready-inside-and-out"&gt;Keep Your Property Guest-Ready, Inside and Out&lt;/h3&gt;
+&lt;p&gt;In hospitality, &lt;strong&gt;every detail affects the guest experience&lt;/strong&gt; — from Wi-Fi reliability and safety readiness&lt;br&gt;
+to how your entrances, walkways, and patios look when guests arrive.&lt;/p&gt;</description></item><item><title>Medical &amp; Healthcare</title><link>https://utptech.net/english/industry/medical/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/medical/</guid><description>&lt;h3 id="keeping-clinics-connected-compliant--patient-ready"&gt;Keeping Clinics Connected, Compliant &amp;amp; Patient-Ready&lt;/h3&gt;
+&lt;p&gt;Modern healthcare relies on more than just good medicine — it needs &lt;strong&gt;reliable technology, safe facilities, and a professional environment&lt;/strong&gt; that gives patients confidence the moment they walk in.&lt;/p&gt;</description></item><item><title>Non-Profit &amp; Community Organizations</title><link>https://utptech.net/english/industry/non-profit/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/non-profit/</guid><description>&lt;h3 id="technology-safety--curb-appeal-that-support-your-mission"&gt;Technology, Safety &amp;amp; Curb Appeal That Support Your Mission&lt;/h3&gt;
+&lt;p&gt;Non-profits and community organizations run on &lt;strong&gt;trust, people, and purpose&lt;/strong&gt; —&lt;br&gt;
+but you still need secure networks, safe buildings, and welcoming spaces for the community you serve.&lt;/p&gt;</description></item><item><title>Optometry &amp; Vision Care</title><link>https://utptech.net/english/industry/vision/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/vision/</guid><description>&lt;h3 id="clear-infrastructure-for-clear-vision-care"&gt;Clear Infrastructure For Clear Vision Care&lt;/h3&gt;
+&lt;p&gt;Modern optometry and vision care practices rely on &lt;strong&gt;fast, stable networks and safe, welcoming environments&lt;/strong&gt;.&lt;br&gt;
+If your EHR lags, imaging stations freeze, or the building looks neglected, patients feel it immediately.&lt;/p&gt;</description></item><item><title>Radiology &amp; Imaging Centers</title><link>https://utptech.net/english/industry/radiology/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/radiology/</guid><description>&lt;h3 id="infrastructure-that-keeps-imaging-rooms-online-and-on-time"&gt;Infrastructure That Keeps Imaging Rooms Online and On Time&lt;/h3&gt;
+&lt;p&gt;Radiology and imaging environments depend on &lt;strong&gt;uptime, clean power, and stable connectivity&lt;/strong&gt;.&lt;br&gt;
+If PACS is slow, studies won’t load. If the network drops, modalities can’t send. If the site looks neglected, patients and referring providers notice.&lt;/p&gt;</description></item><item><title>Restaurants &amp; Food Service</title><link>https://utptech.net/english/industry/restraurant/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/restraurant/</guid><description>&lt;h3 id="keeping-kitchens-dining-areas--drive-thrus-up-to-par"&gt;Keeping Kitchens, Dining Areas &amp;amp; Drive-Thrus Up To Par&lt;/h3&gt;
+&lt;p&gt;Restaurants run on &lt;strong&gt;tight margins, high traffic, and zero room for downtime&lt;/strong&gt;.&lt;br&gt;
+Grease, foot traffic, and constant use put pressure on your &lt;strong&gt;technology, safety systems, and exterior spaces&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Small &amp; Medium Businesses</title><link>https://utptech.net/english/industry/smb/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/industry/smb/</guid><description>&lt;h3 id="big-league-reliability-for-growing-local-businesses"&gt;Big-League Reliability For Growing Local Businesses&lt;/h3&gt;
+&lt;p&gt;Small and medium-sized businesses need &lt;strong&gt;reliable systems, clean spaces, and safe environments&lt;/strong&gt; —&lt;br&gt;
+but don’t always have a full-time IT or facilities team to manage it all.&lt;/p&gt;</description></item></channel></rss>

@@ -1,33 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Our Services on Up To Par Technologies</title>
-    <link>http://10.10.100.48:1313/english/service/</link>
-    <description>Recent content in Our Services on Up To Par Technologies</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 11:54:02 +0600</lastBuildDate>
-    <atom:link href="http://10.10.100.48:1313/english/service/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fire &amp; Safety</title>
-      <link>http://10.10.100.48:1313/english/service/fire-safety/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/service/fire-safety/</guid>
-      <description>&lt;h3 id=&#34;fire-protection-that-keeps-your-business-ready-for-inspection&#34;&gt;Fire Protection That Keeps Your Business Ready For Inspection&lt;/h3&gt;&#xA;&lt;p&gt;Through &lt;strong&gt;Up To Par Technologies&lt;/strong&gt; and our partnership with &lt;strong&gt;RGV Fire Extinguisher Company&lt;/strong&gt;, we provide&#xA;fire &amp;amp; life-safety services that keep your locations &lt;strong&gt;code-compliant, properly tagged, and ready for surprise inspections&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Managed IT &amp; Structured Cabling</title>
-      <link>http://10.10.100.48:1313/english/service/it-service/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/service/it-service/</guid>
-      <description>&lt;h3 id=&#34;managed-infrastructure-built-to-keep-your-business-up-to-par&#34;&gt;Managed Infrastructure Built To Keep Your Business Up To Par&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;At &lt;strong&gt;Up To Par Technologies&lt;/strong&gt;, we design and support the network backbone that keeps your clinic, office, or facility running — from the core switches in your rack to the drops at every desk, exam room, and camera.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Power Washing</title>
-      <link>http://10.10.100.48:1313/english/service/power-washing/</link>
-      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
-      <guid>http://10.10.100.48:1313/english/service/power-washing/</guid>
-      <description>&lt;h3 id=&#34;exterior-cleaning-that-keeps-your-business-looking-up-to-par&#34;&gt;Exterior Cleaning That Keeps Your Business Looking Up To Par&lt;/h3&gt;&#xA;&lt;p&gt;Curb appeal isn’t just about looking nice — it’s part of your &lt;strong&gt;brand, safety, and customer experience&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Our Services on Up To Par Technologies</title><link>https://utptech.net/english/service/</link><description>Recent content in Our Services on Up To Par Technologies</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 29 Sep 2018 11:54:02 +0600</lastBuildDate><atom:link href="https://utptech.net/english/service/index.xml" rel="self" type="application/rss+xml"/><item><title>Fire &amp; Safety</title><link>https://utptech.net/english/service/fire-safety/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/service/fire-safety/</guid><description>&lt;h3 id="fire-protection-that-keeps-your-business-ready-for-inspection"&gt;Fire Protection That Keeps Your Business Ready For Inspection&lt;/h3&gt;
+&lt;p&gt;Through &lt;strong&gt;Up To Par Technologies&lt;/strong&gt; and our partnership with &lt;strong&gt;RGV Fire Extinguisher Company&lt;/strong&gt;, we provide
+fire &amp;amp; life-safety services that keep your locations &lt;strong&gt;code-compliant, properly tagged, and ready for surprise inspections&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Managed IT &amp; Structured Cabling</title><link>https://utptech.net/english/service/it-service/</link><pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate><guid>https://utptech.net/english/service/it-service/</guid><description>&lt;h3 id="managed-infrastructure-built-to-keep-your-business-up-to-par"&gt;Managed Infrastructure Built To Keep Your Business Up To Par&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At &lt;strong&gt;Up To Par Technologies&lt;/strong&gt;, we design and support the network backbone that keeps your clinic, office, or facility running — from the core switches in your rack to the drops at every desk, exam room, and camera.&lt;/p&gt;</description></item><item><title>Power Washing</title><link>https://utptech.net/english/service/power-washing/</link><pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate><guid>https://utptech.net/english/service/power-washing/</guid><description>&lt;h3 id="exterior-cleaning-that-keeps-your-business-looking-up-to-par"&gt;Exterior Cleaning That Keeps Your Business Looking Up To Par&lt;/h3&gt;
+&lt;p&gt;Curb appeal isn’t just about looking nice — it’s part of your &lt;strong&gt;brand, safety, and customer experience&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
